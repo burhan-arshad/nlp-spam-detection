@@ -4,7 +4,7 @@ A machine learning application that classifies SMS messages as **Spam** or **Ham
 
 ## Live Demo
 
-[Try the Live Demo](YOUR_STREAMLIT_APP_LINK)
+[Try the Live Demo](https://nlp-spam-detection-burhan.streamlit.app/)
 
 ## Overview
 
