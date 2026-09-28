@@ -147,8 +147,8 @@ sms-spam-classifier/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd sms-spam-classifier
+git clone https://github.com/burhan-arshad/nlp-spam-detection
+cd nlp-spam-detection
 ```
 
 Create a virtual environment:
